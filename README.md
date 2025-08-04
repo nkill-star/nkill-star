@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkill-star&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="nkill-star" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nkill-star&" alt="nkill-star" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nkill-star&theme=transparent&hide_border=true&" alt="nkill-star" /></p>
