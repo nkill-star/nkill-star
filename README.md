@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil S Richie</h1>
 <h3 align="center">I'm a self-motivated tech enthusiast and aspiring developer. I focus on web development with technologies like HTML, CSS, JavaScript, React.js, Node.js, MongoDB, and Express.js. Passionate about learning through hands-on projects, I continuously refine my technical and communication skills to build a successful career in tech.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nkill-star" alt="nkill-star" /></a> </p>
-
 - 💬 Ask me about **HTML,CSS,JavaScript,React**
 
 - 📫 How to reach me **nikhil.s.richie@gmail.com**
