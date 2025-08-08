@@ -3,7 +3,7 @@
 ### About Me
 
 I am a passionate and driven Computer Science graduate from Marian Engineering College, Trivandrum, with a strong foundation in web development technologies 
-such as HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB. My journey in tech has been enriched through hands-on projects, including QuickCarz, 
+such as HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB. My journey in tech has been enriched through hands-on projects, including QuickCarz, 
 a full-stack car rental application, which deepened my understanding of backend integration, secure authentication, and efficient data management.
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React**
